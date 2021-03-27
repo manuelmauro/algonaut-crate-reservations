@@ -1,6 +1,6 @@
 # Algonaut Crate Reservations
 
-Clone of "Bevy Crate Reservation"
+A clone of "Bevy Crate Reservation".
 
 ## Reserving new crates
 
