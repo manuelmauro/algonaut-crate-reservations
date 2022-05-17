@@ -1,5 +1,6 @@
 # add crates here (they will automatically have "algonaut_" prefixed). ex: "hello" will become the "algonaut_hello" crate
 crates=(
+  
 )
 
 rm -rf crates

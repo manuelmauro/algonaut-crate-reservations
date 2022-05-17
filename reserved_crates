@@ -6,6 +6,8 @@ algonaut_transaction
 algonaut_teal
 algonaut_model
 algonaut_nft
-algonaut_nft
 algonaut_abi
 algonaut_did
+algonaut_algod
+algonaut_indexer
+algonaut_kmd
